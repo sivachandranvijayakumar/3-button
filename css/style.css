@@ -1,0 +1,34 @@
+.container
+{
+	border: 1px solid lightgray;
+}
+
+.main
+{
+	display: flex;
+    margin:26px;
+	overflow:hidden;
+    border-radius:8px;
+	width:30%;
+}
+.left a
+{
+	background-color:red;
+	color:white;
+}
+.middle a
+{
+	background-color:yellow;
+	color:black;
+}
+.right a 
+{
+	background-color:green;
+	color:white;
+}
+a
+{
+	text-decoration:none;
+	padding:10px 45px;
+    font-size:25px;
+}
